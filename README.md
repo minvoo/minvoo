@@ -35,8 +35,7 @@
       "WordPress"
     ],
     "os": [
-      "Linux",
-      "Windows"
+      "macOS"
     ],
     "workingWith": [
       "IntelliJ Idea",
