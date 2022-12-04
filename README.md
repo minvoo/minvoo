@@ -39,7 +39,7 @@
     ],
     "workingWith": [
       "IntelliJ Idea",
-      "Insomnia",
+      "Postman",
       "VS Code",
       "Photoshop CC",
       "Firefox"
