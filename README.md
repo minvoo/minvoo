@@ -1,6 +1,6 @@
 <center><img width="100%"src="https://tinypic.host/images/2022/07/16/ezgif-1-a706015061.gif" /></center><h2> Hi 👋! I'm Mariusz. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>I'm Software Engineer currently working in local government as an IT specialist. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I am a junior Java engineer with a passion for creating efficient, scalable solutions. Looking to continue growing my skills and making a positive impact in the tech industry. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
