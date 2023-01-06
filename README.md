@@ -31,7 +31,9 @@
       "Hibernate",
       "HTML",
       "CSS",
-      "Angular",
+      "JavaScript",
+      "TypeScript",
+      "React",
       "Git",
       "MySQL",
       "WordPress"
