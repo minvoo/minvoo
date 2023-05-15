@@ -9,7 +9,6 @@
 [![Linkedin: minvoo](https://img.shields.io/badge/-minvoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minvoo-p-singh/)](https://www.linkedin.com/in/minvoo/)
 ![GitHub followers](https://img.shields.io/github/followers/minvoo?label=Follow%20me&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://www.linkedin.com/in/minvoo)
-![](https://visitor-badge.glitch.me/badge?page_id=minvoo)
 
 
 
