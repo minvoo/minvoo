@@ -56,5 +56,3 @@
 }
 ```
 
-<em><b>I am open to work as Java developer. If You are interested, contact me at <a href="mailto:maciejewski_mariusz@wp.pl">maciejewski_mariusz@wp.pl</a></b> 😊</em>
-
