@@ -34,11 +34,16 @@
       "TypeScript",
       "React",
       "Git",
+      "SVN",
       "MySQL",
+      "Oracle",
+      "PostgreSQL",
       "WordPress"
     ],
     "os": [
-      "macOS"
+      "macOS",
+      "Linux",
+      "Windows"
     ],
     "workingWith": [
       "IntelliJ Idea",
