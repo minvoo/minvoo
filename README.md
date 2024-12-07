@@ -1,6 +1,6 @@
 <center><img width="100%"src="https://tinypic.host/images/2022/07/16/ezgif-1-a706015061.gif" /></center><h2> Hi 👋! I'm Mariusz. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>I am a driven and passionate junior Java engineer. With a strong foundation in computer science principles and a thirst for continuous learning, I am eager to take on new challenges and make a meaningful impact in the tech industry. Thank you for visiting my page and please feel free to connect with me or check out some of my projects!
+<p><em>I am a driven and passionate Java engineer. With a strong foundation in computer science principles and a thirst for continuous learning, I am eager to take on new challenges and make a meaningful impact in the tech industry. Thank you for visiting my page and please feel free to connect with me or check out some of my projects!
   
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -18,10 +18,6 @@
 ```js
 {
   "minvoo": {
-    "pronouns": [
-      "he",
-      "him"
-    ],
     "name": "Mariusz",
     "country": "Poland",
     "stack": [
@@ -33,6 +29,7 @@
       "JavaScript",
       "TypeScript",
       "React",
+      "NextJS"
       "Git",
       "SVN",
       "MySQL",
@@ -50,13 +47,8 @@
       "Postman",
       "VS Code",
       "Photoshop CC",
-      "Firefox"
+      "Chrome"
     ],
-    "askMeAbout": [
-      "web dev",
-      "computer graphics",
-      "cycling"
-    ]
   }
 }
 ```
